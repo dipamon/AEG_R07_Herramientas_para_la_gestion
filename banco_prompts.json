@@ -1,0 +1,12 @@
+[
+  {
+    "id": "directo_v1",
+    "tipo": "Zero-Shot",
+    "prompt": "Resuelve este problema lógico: Si Ana es más alta que Bea y Bea es más alta que Clara, ¿quién es la más baja?"
+  },
+  {
+    "id": "razonamiento_v1",
+    "tipo": "Chain of Thought",
+    "prompt": "Resuelve este problema lógico pensando paso a paso: Si Ana es más alta que Bea y Bea es más alta que Clara, ¿quién es la más baja? 1. Analiza las alturas relativas. 2. Concluye."
+  }
+]

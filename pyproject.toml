@@ -1,0 +1,14 @@
+[project]
+name = "aeg-r07-herramientas-para-la-gestion"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colorama>=0.4.6",
+    "google-genai>=1.62.0",
+    "groq>=1.0.0",
+    "numpy>=2.4.2",
+    "openai>=2.16.0",
+    "python-dotenv>=1.2.1",
+]
