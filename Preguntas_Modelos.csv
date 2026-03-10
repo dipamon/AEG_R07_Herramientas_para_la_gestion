@@ -1,0 +1,376 @@
+,id_original,tipo,problema_texto,solucion_esperada
+0,3687,control,Mason has 3 cartons of 200 blueberries. He makes as many muffins as he can with 10 blueberries per muffin. Then he makes 60 cinnamon muffins. What percentage of all the muffins he made have blueberries?,"First find the total number of blueberries Mason has: 200 blueberries/carton * 3 cartons = 600 blueberries
+Then divide the total number of blueberries by the number of blueberries per muffin: 600 blueberries / 10 blueberries/muffin = <<600/10=60>>60 muffins
+Then add that number of muffins to the number of cinnamon muffins to find the total number of muffins: 60 muffins + 60 muffins = <<60+60=120>>120 muffins
+Then divide the number of blueberry muffins by the total number of muffins and multiply by 100% to express the answer as a percentage: 60 muffins / 120 muffins * 100% = 50%
+#### 50"
+1,6944,control,A local business was selling 25 raffle tickets to raise money for charity.  Each ticket cost $2.00 apiece.  They sold all the tickets and also received 2 $15 donations and a $20 donation.  How much money did they raise?,"They sold 25 raffle tickets at $2.00 a piece so 25*2 = $<<25*2=50.00>>50.00
+They received 2 $15.00 donations so 2*15 = $<<2*15=30>>30
+With another donation of $20, in total, they raised 50+30+20 = $<<50+30+20=100.00>>100.00
+#### 100"
+2,6775,control,"Iris’ family is planning a surprise birthday party for her. The party will include her 3 uncles and 4 aunts who have a son and daughter each as well as her brother and mother. In total, how many people are coming to Iris’ birthday party?","Each of her aunts and uncles have a family unit of 1 son + 1 daughter + 1 aunt/uncle = <<1+1+1=3>>3 people.
+Iris has a total of 3 uncles + 4 aunts = <<3+4=7>>7 aunts or uncles in these family units.
+So among her aunts, uncles, and cousins, there will be 7 family units * 3 people in each family unit = <<7*3=21>>21 people.
+Including her mother and brother, there will be a total of 21 people + 1 mother + 1 brother = <<21+1+1=23>>23 people coming to her party.
+#### 23"
+3,4816,control,"Mrs. Crocker made 11 pieces of fried chicken for Lyndee and her friends. If Lyndee only ate one piece but each of her friends got to eat 2 pieces, how many friends did Lyndee have over?","After Lyndee ate, there were 11 - 1 = <<11-1=10>>10 pieces of chicken left.
+Lyndee had 10/2 = <<10/2=5>>5 friends over.
+#### 5"
+4,4163,control,Tom buys 20 shares of a stock that costs $3 each.  He sells 10 of those shares for $4 each.  The rest of the shares end up doubling in value.  How much profit does he make?,"He spends 3*20=$<<3*20=60>>60 on the shares.
+He sells 10 for 10*4=$<<10*4=40>>40.
+He sells the other 20-10=<<20-10=10>>10 for a higher valuation.
+Their price was 3*2=$<<3*2=6>>6.
+So he got 10*6=$<<10*6=60>>60 from those.
+So in total, he got 60+40=$<<60+40=100>>100.
+So his profit was 100-60=$<<100-60=40>>40.
+#### 40"
+5,4340,control,"Claudia offers art classes to kids and charges $10.00 for her one-hour class.  If 20 kids attend Saturday’s class and half that many attend Sunday’s class, how much money does she make?","Sunday’s class is half the size of Saturday’s class with 20 kids so Sunday has 20/2 = <<20/2=10>>10 kids
+She has 20 kids on Saturday and 10 kids on Sunday for a total of 20+10 = <<20+10=30>>30 kids
+She charges $10.00 per kid and teaches 30 kids over the weekend so she makes 10*30 = $<<10*30=300.00>>300.00
+#### 300"
+6,4785,control,"Every day, Lou works out by running three miles on a circular track that is one-quarter of a mile long.  His wife, Rosie, also runs on the same track at the same time as her husband, but she runs at twice the speed of her husband.  During their workout, how many times does Rosie circle the track?","If Lou runs 3 miles during his workout on a track that is 1/4 miles long, then he circles the track 3/(1/4)=12 times.
+If Rosie runs twice as fast as Lou, then over the same time period, she runs 3*2=<<3*2=6>>6 miles.
+If Rosie runs 6 miles on the 1/4 mile track, then she circles the track 6/(1/4)=<<6/(1/4)=24>>24 times.
+#### 24"
+7,3649,control,"Uncle Ben has 440 chickens on his farm. 39 are roosters and the rest are hens. 15 of his hens do not lay eggs, and the rest do. If each egg-laying hen lays 3 eggs, how many eggs will Uncle Ben have?","Uncle Ben has 440 chickens - 39 roosters = <<440-39=401>>401 hens.
+Uncle Ben has 401 hens - 15 that don't lay eggs = <<401-15=386>>386 hens that lay eggs.
+The egg-laying hens each lay 3 eggs * 386 hens = <<3*386=1158>>1158 eggs.
+#### 1158"
+8,4999,control,"Chastity bought 4 lollipops which cost $1.50 each, and she also bought 2 packs of gummies which cost $2 each. If she has $15, how much was she left with after spending on the candies?","She spent 4 x $1.50 = $<<4*1.5=6>>6 for the lollipops.
+She also spent 2 x $2 = $<<2*2=4>>4 for the gummies.
+Therefore, Chastity was left with $15 - $10 = $<<15-10=5>>5
+#### 5"
+9,2810,control,"If there are four times as many red crayons as blue crayons in a box, and there are 3 blue crayons.  How many crayons total are in the box?","Red crayons: 4(3)=12
+Total crayons: 12+3=<<12+3=15>>15 crayons
+#### 15"
+10,291,control,Mary used 15 gallons of fuel this week. Last week she used 20% less. How much fuel did she use in total for the two weeks?,"Last week, she used 15 gallons * 0.2 = <<15*0.2=3>>3 gallons less fuel than she used this week.
+This means that she used 15 gallons – 3 gallons = <<15-3=12>>12 gallons of fuel last week.
+In total, Mary used 15 gallons + 12 gallons = <<15+12=27>>27 gallons of fuel.
+#### 27"
+11,5959,control,"Lola baked 13 mini cupcakes, 10 pop tarts, and 8 blueberry pies. Meanwhile, Lulu made 16 mini cupcakes, 12 pop tarts, and 14 blueberry pies. How many pastries have Lola and Lulu made altogether?","They made 13 + 16 = <<13+16=29>>29 mini cupcakes altogether.
+They made 10 + 12 = <<10+12=22>>22 pop tarts altogether.
+They also made 8 + 14 = <<8+14=22>>22 blueberry pies altogether.
+Therefore they made a total of 29 + 22 + 22 = <<29+22+22=73>>73 pastries altogether.
+#### 73"
+12,6469,control,"Twice Angie's age, plus 4, is 20. How old is Angie?","Twice Angie's age is 20-4=<<20-4=16>>16.
+Angie is 16/2=<<16/2=8>>8.
+#### 8"
+13,1117,control,The age of Gladys is equal to twice the sum of the ages of Billy and Lucas. Billy is 3 times younger than Gladys who is 30 years old now. How old will Lucas be three years from now?,"Billy's age is 30/3 = <<30/3=10>>10 years old.
+The sum of the ages of Billy and Lucas is 30/2 = <<30/2=15>>15.
+So, Lucas is 15 - 10 = <<15-10=5>>5 years old now.
+Therefore, Lucas will be 5 + 3 = <<5+3=8>>8 years old three years from now.
+#### 8"
+14,160,control,John throws a block party and splits the cost with 3 other people.  They buy 100 pounds of burgers at $3 per pound.  They also buy $80 of condiments and propane to cook everything.  John also buys all the alcohol which costs $200. How much did John spend altogether,"He splits the cost 3+1=<<3+1=4>>4 ways
+100 pounds of burgers at $3 per pound makes 100*3=$<<100*3=300>>300
+In addition to $80 for condiments and propane the total cost was 300+80=$<<300+80=380>>380
+That means each of them paid 380/4=$<<380/4=95>>95
+Then adding in the cost of alcohol, John spent 200+95=$<<200+95=295>>295
+#### 295"
+15,918,control,The house is 20.5 feet by 10 feet. The porch measures 6 feet by 4.5 feet. The house and the porch need shingles. How many square feet of shingles will be needed to roof the house and the porch?,"House = 20.5 * 10 = <<20.5*10=205>>205 square feet
+Porch = 6 * 4.5 = <<6*4.5=27>>27 square feet
+205 + 27 = <<205+27=232>>232 square feet
+232 square feet of shingles will be needed.
+#### 232"
+16,2480,control,"A school choir needs robes for each of its 30 singers. Currently, the school has only 12 robes so they decided to buy the rest. If each robe costs $2, how much will the school spend?","The school needs to buy 30 - 12 = <<30-12=18>>18 robes.
+So the school will spend 18 x $2 = $<<18*2=36>>36.
+#### 36"
+17,4032,control,"Paul is working at a university. He is part of a big project, which involves 70 scientists in total. Half of them are from Europe and one-fifth are from Canada. The rest are from the USA. How many scientists in this project are from the USA?","Of all the scientists taking part in the project, half of them are from Europe, which means 70 * 0.5 = <<70*0.5=35>>35 people.
+The number of researchers from Canada is 70 * 1/5 = <<70*1/5=14>>14 people.
+That means there are 70 - 35 - 14 = <<70-35-14=21>>21 researchers from the USA.
+#### 21"
+18,483,control,"Andy started out the year weighing 156 pounds. He then grew 3 inches and gained 36 pounds. Andy wasn't happy with his weight and decided to exercise. Over the next 3 months, he lost an eighth of his weight every month. How much less does Andy weigh now than at the beginning of the year?","Andy weighed 156 + 36 = <<156+36=192>>192 pounds after growing taller.
+An eighth of his weight is 1/8 x 192 = <<1/8*192=24>>24 pounds.
+Over the next 3 months, Andy lost 24 x 3 = <<24*3=72>>72 pounds.
+He now weighs 192 - 72 = <<192-72=120>>120 pounds.
+Andy weighs 156 - 120 = <<156-120=36>>36 pounds less than at the beginning of the year.
+#### 36"
+19,3297,control,Tom's puts 30 miles per day on his bike for the first 183 days of the year.  For the rest of the days of the year he goes 35 miles per day.  How many miles does he drive for the year?,"For the first 183 days he drives 183*30=<<183*30=5490>>5490 miles
+There are 365-183=<<365-183=182>>182 days left in the year
+He drives 35*182=<<35*182=6370>>6370 for those days
+So in total he drives 5490+6370=<<5490+6370=11860>>11,860
+#### 11860"
+20,2375,reimaginado,"Captain Kael, lead archivist for the Martian Confederacy, has collected ""sqrt(100)"" data modules containing standard blue encryption. He possesses ""2^2"" fewer experimental yellow encryption modules than standard blue ones. How many data modules does Captain Kael have for the entire mission's operational requirements?","Wyatt has 10 - 4 = <<10-4=6>>6 yellow envelopes.
+The total number of envelopes he has is 10 blue + 6 yellow = <<10+6=16>>16 envelopes.
+#### 16"
+21,4886,reimaginado,"Sir Gareth dedicates ""2^2"" practice sessions per cycle (a cycle being a terrestrial week), each session lasting ""(16/8)"" hours, to mastering his arcane blade dance. He commits to this rigorous regimen for ""(20/2)"" full decades. Considering there are ""(104/2)"" cycles in each year of his training, what is the total number of hours Sir Gareth spends honing his blade dance over the decades?","He dances 4*2=<<4*2=8>>8 hours per week
+He dances for 52*10=<<52*10=520>>520 weeks
+So in total he danced for 8*520=<<8*520=4160>>4160 hours
+#### 4160"
+22,7325,reimaginado,"In Neo-Kyoto's underground circuit, a notorious fixer named ""The Ghost"" possesses a digital signature footprint that is ""sqrt(225)"" units more prominent than that of the elusive Netrunner known as ""Whisper."" Conversely, The Ghost's footprint is ""(18/3)"" units less prominent than that of the data mogul, ""Empress Zero."" If The Ghost's signature measures ""(304/2)"" units, what is the combined prominence of Whisper's and Empress Zero's digital signatures?","Lena is 152 cm - 15 cm = <<152-15=137>>137 cm tall
+Rebeca is 152 cm + 6 cm = <<152+6=158>>158 cm tall
+So, the total height of Lena and Rebeca would be 137 cm + 158 cm = <<137+158=295>>295 cm.
+#### 295"
+23,5096,reimaginado,"Elara, the scholar-wizard, dedicates herself to deciphering ancient runic scrolls. During the ""work-cycle"" (equivalent to ""(10/2)"" days), she deciphers ""(5 * 2)"" pages daily. On the ""rest-cycle"" (equivalent to ""sqrt(4)"" days), her focus intensifies, allowing her to decipher ""(4 * 5)"" pages each day. If it requires ""sqrt(4)"" full moon phases (each phase being a standard terrestrial week) for Elara to completely unravel the entire tome of secrets, what is the total number of pages in the tome?","Two weeks has 5*2=<<5*2=10>>10 weekdays.
+Two weeks has 2*2=<<2*2=4>>4 weekends.
+On weekdays, she reads 10*10=<<10*10=100>>100 pages in total.
+On weekends, she reads 20*4=<<20*4=80>>80 pages in total.
+So the book has 100+80=<<100+80=180>>180 pages.
+#### 180"
+24,3068,reimaginado,"The clandestine dealer known as ""Byte Baron"" acquired a shipment of ""(4 * 5)"" neural interface implants from a dubious manufacturer. Upon inspection, he discovered that ""(10/2)"" units were compromised and unusable. After jettisoning the faulty modules, he proceeded to offload the remaining operational implants to his network of clients. ""Shadow Weaver"" acquired ""(9/3)"" units, ""Cipher"" obtained ""(14/2)"" units, and ""Ghost Protocol"" purchased an unspecified quantity. If all non-compromised implants were successfully distributed, how many units did Ghost Protocol acquire?","There were 20 - 5 = <<20-5=15>>15 units of non-defective smartphones.
+There were 3 + 7 = <<3+7=10>>10 units sold to customers A and C.
+So, 15 - 10 = <<15-10=5>>5 units were sold to customer B.
+#### 5"
+25,363,reimaginado,"The alchemist Kael paid ""(21/3)"" gold pieces for ""sqrt(4)"" vials of potent dragon's blood and ""(5/5)"" bundle of moonpetal herbs. His apprentice, Lyra, acquired ""(5/5)"" vial of dragon's blood and ""(5/5)"" bundle of moonpetal herbs for ""(10/2)"" gold pieces. What is the cost, in gold pieces, of a single bundle of moonpetal herbs?","Tony paid $7-$5= $<<7-5=2>>2 more than Arnold
+We know he bought the same number of bananas as Arnold but that he bought 2-1=1 dozen apples more than Arnold
+Therefore a dozen apples should cost $2
+If Arnold paid $5 and $2 for a dozen apples then the bunch of bananas cost $5-$2=$<<5-2=3>>3
+#### 3"
+26,3188,reimaginado,"Commander Eva-27 hosts her two elder advisors and ""(9/3)"" junior crewmates in her starship's common mess hall. Each individual consumes ""(9/3)"" energy rations per solar cycle (a standard day). How many biodegradable ration trays are utilized by Eva-27 and her entire contingent over ""2^2"" solar cycles, assuming each person requires ""(10/5)"" trays per energy ration?","There were 1+2+3=<<1+2+3=6>>6 people at the house
+That means they use 6*2=<<6*2=12>>12 plates per meal
+So they use 12*3=<<12*3=36>>36 plates per day
+That means they use 36*4=<<36*4=144>>144 plates for the visit
+#### 144"
+27,5573,reimaginado,"Elara the alchemist brews vials of healing potion for her adventuring party. On Starday (the first day of the week), she brings ""(3/3)"" vial to the guild hall. Each subsequent day until Moonday, she brings ""(3/3)"" more vial than she did on the preceding day. If by Sunsday (the last day before the next Starday) she counts that ""(14/2)"" vials remain in her inventory, how many vials did she originally brew at the start of the week?","On Tuesday, she brings in 1 + 1 = <<1+1=2>>2 muffins.
+On Wednesday, she brings in 2 + 1 = <<2+1=3>>3 muffins.
+On Thursday, she brings in 3 + 1 = <<3+1=4>>4 muffins.
+On Friday, she brings in 4 + 1 = <<4+1=5>>5 muffins.
+In total, she brought 1 + 2 + 3 +4 + 5 = <<1+2+3+4+5=15>>15 muffins to school to share with her friends.
+She baked a total of 15 + 7 = <<15+7=22>>22 muffins.
+#### 22"
+28,4186,reimaginado,"A black-hat hacker, known only as ""Binary Jack,"" acquires encrypted data packets from the dark web for ""(10/2)"" credits each. The estimated average decrypted information value within each packet is ""(7/2)"" credits. Binary Jack dedicates ""(8 * 5)"" credits to purchasing these packets. What is the average amount of credits Binary Jack loses per packet transaction?","He bought 40/5=<<40/5=8>>8 boxes
+He loses an average of 5-3.5=$<<5-3.5=1.50>>1.50 per box
+So he loses an average of 1.5*8=$<<1.5*8=12>>12
+#### 12"
+29,3728,reimaginado,"The Archmage Eldrin is preparing for a complex summoning ritual. It takes him ""(4 * 5)"" minutes to inscribe the primary runes and ""(3/3) / 2^2"" of that time to etch the minor wards. Preparing the ritual circle requires ""(3 * 10)"" minutes, and allowing the ley lines to stabilize takes ""sqrt(4)"" times longer. The final step, activating the sigils, requires ""(100/10)""th of the combined time spent on the ritual circle and ley line stabilization. How many total minutes does Archmage Eldrin spend on this summoning ritual?","First find the amount of time it takes Marcus to saute the garlic and peppers: 20 minutes / 4 = <<20/4=5>>5 minutes
+Then find the dough's resting time: 30 minutes * 2 = <<30*2=60>>60 minutes
+Then add the kneading and resting time to find the total dough time: 60 minutes + 30 minutes = <<60+30=90>>90 minutes
+Then multiply that amount by 1/10th to find the assembly time: 90 minutes / 10 = <<90/10=9>>9 minutes
+Then add the saute time, knead time, rest time and assembly time to find the total time Marcus spends on the calzones: 9 minutes + 20 minutes + 5 minutes + 60 minutes + 30 minutes = <<9+20+5+60+30=124>>124 minutes
+#### 124"
+30,5914,reimaginado,"Botanist Lyra-7 manages two species of bio-luminescent flora on Ganymede Station. She maintains ""(1/2)"" of her total specimens as species Alpha and ""(1/2)"" as species Beta. Each Alpha specimen yields ""sqrt(100)"" energy-rich spores per lunar cycle, of which ""(3/5)"" are viable. Each Beta specimen produces ""(3 * 5)"" energy-rich spores, and ""(2/6)"" of these are viable. If Lyra-7 harvests ""(11 * 5)"" viable spores each lunar cycle, what is the total number of bio-luminescent flora specimens she maintains?","Each tree A gives her six good oranges a month 10 x .6 = <<10*.6=6>>6
+Each tree B gives her five good oranges a month because 15 x (1/3) = <<15*(1/3)=5>>5
+On average, a tree gives her 5.5 oranges a month because .5(6) + .5(5) = 5.5
+She has ten total trees because 55 / 5.5 = <<55/5.5=10>>10
+#### 10"
+31,6094,reimaginado,"A corporate infiltrator, ""Ghostwire,"" monitors server activity. He spends an unknown duration analyzing the main security protocols, ""2^3"" times that duration observing data packets traversing the network's subnetworks, and ""(26/2)"" minutes scrutinizing the core database logs. If his total operational time logged on the server was ""(12 * 10)"" minutes and ""(100/10)"" minutes, how many minutes did Ghostwire spend analyzing the main security protocols?","First find the number of minutes in 2 hours: 2 hours * 60 minutes/hour = <<2*60=120>>120 minutes
+Then add 10 minutes to that amount to find the total number of minutes Walter spent at the zoo: 120 minutes + 10 minutes = <<120+10=130>>130 minutes
+Let s be the amount of time he spends looking at the seals and p be the amount of time he spends looking at the penguins. From the problem, we know that s + p + 13 = 130 and p = 8s.
+Substituting the second equation into the first, we get s + 8s + 13 = 130
+Combining like terms, we get 9s + 13 = 130
+Subtracting 8 from both sides, we get 9s = 117
+Dividing both sides by 9, we get s = 13
+#### 13"
+32,3253,reimaginado,"In the enchanted Whispering Woods, the ranger Elara took a census of apex predators. She counted ""(3 * 4)"" adult Shadow Panthers, ""(2 * 7)"" fearsome Saber-Toothed Prowlers, and an unquantified number of spectral Dire Wolves. If the number of Dire Wolves was exactly ""(3/6)"" the combined count of Shadow Panthers and Saber-Toothed Prowlers, what was the total population of these magnificent beasts in the Whispering Woods?","Half as many cougars as lions and tigers combined is (12+14)/2=13.
+Then the total number of big cats at the feline sanctuary is 12+14+13=<<12+14+13=39>>39.
+#### 39"
+33,4868,reimaginado,"Commander Jax was logging encounters with exoplanetary fauna for xenobiological research. On his inaugural survey mission, he cataloged ""(4 * 7)"" mature Glimmerwing males and ""sqrt(4)"" times that number of Glimmerwing females. During his second survey, he observed ""2^3"" juvenile Sky-Serpents. On his third and final survey, he noted ""(1/2)"" the number of Glimmerwing males as on the first mission, and the identical number of Glimmerwing females as on the first mission. In total, how many unique alien creatures were cataloged during Commander Jax's monitoring expeditions?","On the first trip, Ishmael sees 28 male whales * 2 = <<28*2=56>>56 female whales.
+So in total, he sees 28 male whales + 56 female whales = <<28+56=84>>84 whales on the first trip.
+On the second trip, each baby whale travels with its parents which means it travels in a group of 1 baby whale + 2 parents = <<1+2=3>>3 whales/baby whale.
+This means there are 8 baby whales * 3 whales/baby whale = <<8*3=24>>24 whales on the second trip.
+On the third trip, there are half as many male whales as there were on the first trip, so there must be 28 male whales / 2 = <<28/2=14>>14 male whales.
+Adding this to the female whales means he saws 14 males whales + 56 female whales = <<14+56=70>>70 whales on the third trip.
+In total, Ishmael saw 84 + 24 + 70 = <<84+24+70=178>>178 whales across the three trips.
+#### 178"
+34,5083,reimaginado,"In the underground data-exchange market, the notorious broker ""Glimmerhand"" escalates the byte-price of a rare data-shard by ""(10/2)"" credits with every new offer. Two rival NetBarons engage in a fierce bidding war over a ""Neural Enigma"" shard, with its price soaring from ""(3 * 5)"" credits to ""(13 * 5)"" credits before it is finally secured. Assuming the NetBarons bid alternately, how many times did each NetBaron place a bid on the Neural Enigma shard?","The desk price was raised 65 - 15 = $<<65-15=50>>50.
+At $5 per bid, there were 50 / 5 = <<50/5=10>>10 bids on the desk.
+There were two bidders, so each bid 10 / 2 = <<10/2=5>>5 times on the desk.
+#### 5"
+35,5248,reimaginado,"The seasoned warrior, Sir Kael, could initially wield a greatsword requiring ""(270/2)"" units of strength. Through arduous training and discipline, he augmented his capability by ""(530/2)"" additional units of strength. Subsequently, he acquired a ""Gauntlet of Herculean Might,"" which bestows an additional ""(6000/10)%"" increase in his total strength. How many units of strength can Sir Kael now command with the Gauntlet?","He can lift 135+265=<<135+265=400>>400 pound without the bracer
+The bracer adds 400*6=<<400*6=2400>>2400 pounds
+So he can now squat 2400+400=<<2400+400=2800>>2800 pounds
+#### 2800"
+36,4161,reimaginado,"On the exoplanet nursery station, Botanist Xylos tends a vast array of bioluminescent flora, arranged in ""(10 * 5)"" orbital growth rings. Each growth ring accommodates ""(20^2)"" individual flora specimens. If Botanist Xylos harvests ""(3/5)"" of the mature specimens for xenobotanical research, how many flora specimens remain unharvested in the orbital growth rings?","If there are 50 rows of flowers with 400 flowers per row, there are 50*400 = <<50*400=20000>>20000 flowers in the garden,
+Mr. Wells cuts flowers from 60% of the flowers, which is 60/100*20000 = <<60/100*20000=12000>>12000 flowers.
+The total number of flowers remaining in the garden is 20000-12000 = <<20000-12000=8000>>8000
+#### 8000"
+37,6462,reimaginado,"In the Neo-Tokyo data-markets, a rare ""Deep-Dive"" data-slab costs ""2^2"" more credits than a standard ""Echo-Loop"" audio-chip. The Echo-Loop audio-chip is ""(300/10)%"" less expensive than a premium ""Sensory-Flux"" album priced at ""(4 * 5)"" credits. What is the credit cost of the Deep-Dive data-slab?","The CD is 30/100 * 20 = $<<30/100*20=6>>6 cheaper than the album.
+So the cost of the CD is 20 - 6 = $<<20-6=14>>14.
+The book is $4 more expensive than the CD, which means it cost 14 + 4 = $<<14+4=18>>18.
+#### 18"
+38,6031,reimaginado,"The combined chronological age of the ancient Arch-Lich Xylos and his apprentice, the necromancer Kael, is ""(6 * 9)"" centuries. The necromancer Kael is exactly ""(1/2)"" the age of the Arch-Lich Xylos. How many centuries old is the necromancer Kael?","Let x be Drew's age.
+Sam is (1/2)x
+x+(1/2)x=54
+(3/2)x=54
+3x=108
+x=<<36=36>>36
+Sam is 36/2=<<36/2=18>>18 years old
+#### 18"
+39,2710,reimaginado,"On the xenofauna research vessel, Sector A's habitat module contains ""(4/2)"" juvenile Terran Bovoids, ""(9/3)"" indigenous Martian Swine, and ""(12/2)"" specimens of Venusian Caprids. The chief xenobiologist plans to introduce ""(9/3)"" more Terran Bovoids, ""(10/2)"" additional Martian Swine, and ""(4/2)"" new Venusian Caprids to enhance genetic diversity. How many total xenofauna specimens will inhabit Sector A after these additions?","Currently, the farm has 2 + 3 + 6 = <<2+3+6=11>>11 animals.
+The farmer will add 3 + 5 + 2 = <<3+5+2=10>>10 animals.
+So, the farm will have 11 + 10 = <<11+10=21>>21 animals.
+#### 21"
+40,3111,hardcore,"Dr. Aris Thorne, an economic analyst for a burgeoning quantum computing startup, is evaluating the company's annual expenditure on office space. Currently, the startup occupies a 750.5 square foot facility where the base rent is $2.15 per square foot per month. Additionally, operating expenses (utilities, common area maintenance) amount to 18.5% of the base rent, and a pro-rata share of property taxes adds $0.125 per square foot per month. The company is considering a move to a new co-working hub which charges a flat rate of $2800.00 per month, inclusive of all standard operating expenses. However, this new arrangement necessitates an additional specialized collaboration software subscription costing $550.00 per quarter. Dr. Thorne has arranged a partnership where the company will share the flat monthly co-working cost and the quarterly software subscription cost equally with a collaborating startup. Assuming Dr. Thorne's startup currently bears the full cost of the old facility, what is the net *annual* financial advantage (savings or additional cost) for Dr. Thorne's startup if they make the switch?","$6170.79 || Step 1: Calculate the total monthly cost of the old facility.
+   - Base Rent: $2.15/sq ft/month * 750.5 sq ft = $1613.575/month
+   - Operating Expenses: 18.5% * $1613.575 = $298.511375/month
+   - Property Tax: $0.125/sq ft/month * 750.5 sq ft = $93.8125/month
+   - Total Old Monthly Cost: $1613.575 + $298.511375 + $93.8125 = $2005.898875/month
+Step 2: Calculate the total annual cost of the old facility.
+   - Total Old Annual Cost: $2005.898875/month * 12 months = $24070.7865/year
+Step 3: Calculate the startup's annual share of the new co-working space cost.
+   - New Co-working Monthly Cost: $2800.00/month
+   - Startup's Share of Co-working Monthly Cost: $2800.00 / 2 = $1400.00/month
+   - Startup's Share of Co-working Annual Cost: $1400.00/month * 12 months = $16800.00/year
+Step 4: Calculate the startup's annual share of the specialized software subscription cost.
+   - Quarterly Software Cost: $550.00/quarter
+   - Annual Software Cost: $550.00/quarter * 4 quarters = $2200.00/year
+   - Startup's Share of Annual Software Cost: $2200.00 / 2 = $1100.00/year
+Step 5: Calculate the total new annual cost for Dr. Thorne's startup.
+   - Total New Annual Cost for Startup: $16800.00 (co-working) + $1100.00 (software) = $17900.00/year
+Step 6: Determine the net annual financial advantage.
+   - Net Annual Advantage = Total Old Annual Cost - Total New Annual Cost
+   - Net Annual Advantage = $24070.7865 - $17900.00 = $6170.7865"
+41,7152,hardcore,"Dr. Evelyn Reed and her graduate students, Marcus and Lena, are analyzing the yield of different metallic nanoparticles from a multi-stage synthesis process. In his batch, Marcus isolated 12.3 milligrams (mg) of green copper nanoparticles and 3.75 mg of red gold nanoparticles. Lena's batch yielded 9.2 mg of red gold nanoparticles and 11.5 mg of blue silver nanoparticles. Dr. Reed's advanced process, aiming for higher yield, produced 1.75 times the *total mass* of red gold nanoparticles found by Marcus and Lena combined, and 2.5 times the mass of blue silver nanoparticles found by Lena, plus an additional 0.15 times the mass of green copper nanoparticles found by Marcus. What is the total mass (in milligrams) of *all* nanoparticles Dr. Reed's advanced process yielded?","53.2575 mg || Step 1: Calculate the total mass of red gold nanoparticles from Marcus and Lena.
+   - Marcus Red Gold: 3.75 mg
+   - Lena Red Gold: 9.2 mg
+   - Total M+L Red Gold: 3.75 mg + 9.2 mg = 12.95 mg
+Step 2: Identify the mass of blue silver nanoparticles from Lena.
+   - Lena Blue Silver: 11.5 mg
+Step 3: Identify the mass of green copper nanoparticles from Marcus.
+   - Marcus Green Copper: 12.3 mg
+Step 4: Calculate Dr. Reed's yield of red gold nanoparticles.
+   - Dr. Reed Red Gold: 1.75 * 12.95 mg = 22.6625 mg
+Step 5: Calculate Dr. Reed's yield of blue silver nanoparticles.
+   - Dr. Reed Blue Silver: 2.5 * 11.5 mg = 28.75 mg
+Step 6: Calculate Dr. Reed's yield of green copper nanoparticles.
+   - Dr. Reed Green Copper: 0.15 * 12.3 mg = 1.845 mg
+Step 7: Calculate the total mass of all nanoparticles yielded by Dr. Reed's process.
+   - Total Dr. Reed's Yield: 22.6625 mg (Red Gold) + 28.75 mg (Blue Silver) + 1.845 mg (Green Copper) = 53.2575 mg"
+42,491,hardcore,"Dr. Anya Petrova is programming an autonomous ground vehicle (AGV) for a critical supply run in a newly established lunar mining outpost. The AGV's precise route consists of three distinct segments:
+1. From the Habitation Module to the Primary Excavation Site: 11.75 kilometers.
+2. From the Primary Excavation Site to the Ore Processing Plant: 6,300 meters.
+3. From the Ore Processing Plant to the Return Cargo Bay: 8.95 kilometers.
+The AGV has already successfully completed 4.8 kilometers of its *first segment*. Due to unexpected terrain instability, it then had to navigate a diversion, adding an extra 1,250 meters to its travel *before* rejoining the original route at the *exact point* it left off. After rejoining, its navigation system registered it had traveled an *additional* 0.75 kilometers *along the original path* before a comms blackout forced a temporary halt. From its current halted position, what is the *total remaining distance*, in *kilometers*, that the AGV must travel to reach the final Return Cargo Bay, assuming it continues along the programmed route without further diversions?","21.45 km || Step 1: Convert all distances to a single unit (kilometers).
+   - Segment 1: 11.75 km
+   - Segment 2: 6,300 meters = 6.3 km
+   - Segment 3: 8.95 km
+   - Diversion: 1,250 meters = 1.25 km
+Step 2: Calculate the total programmed route distance.
+   - Total Route Distance = 11.75 km + 6.3 km + 8.95 km = 27.0 km
+Step 3: Determine the distance traveled *along the original path* before the diversion.
+   - Initial travel along path: 4.8 km
+Step 4: Determine the distance traveled *along the original path* after rejoining.
+   - Additional travel along path: 0.75 km
+Step 5: Calculate the AGV's *effective current position* along the original planned path.
+   - Effective Current Position = 4.8 km (before diversion) + 0.75 km (after rejoining) = 5.55 km
+Step 6: Calculate the total remaining distance *along the original path* to the final destination.
+   - Remaining Distance = Total Route Distance - Effective Current Position
+   - Remaining Distance = 27.0 km - 5.55 km = 21.45 km"
+43,6234,hardcore,"Three genetically modified bacteria strains (Alpha, Beta, Gamma) are being observed for their flagellar propulsion efficiency in a viscous medium. The Alpha strain exhibits a total displacement that is 3.5 times the displacement of the Beta strain. The Beta strain, in turn, exhibits a total displacement that is 1.75 times the displacement of the Gamma strain. Over a specific observation period, the three strains together achieved a cumulative displacement of 198.375 micrometers. What was the total displacement (in micrometers) specifically achieved by the Beta strain?","39.1125 micrometers || Step 1: Define variables for the displacement of each strain.
+   - Let G = displacement of Gamma strain (in micrometers)
+   - Let B = displacement of Beta strain (in micrometers)
+   - Let A = displacement of Alpha strain (in micrometers)
+Step 2: Express the displacement of Beta strain in terms of Gamma strain.
+   - B = 1.75 * G
+Step 3: Express the displacement of Alpha strain in terms of Beta strain.
+   - A = 3.5 * B
+Step 4: Substitute the expression for B into the equation for A to express Alpha in terms of Gamma.
+   - A = 3.5 * (1.75 * G) = 6.125 * G
+Step 5: Set up the equation for the total combined displacement and solve for Gamma (G).
+   - A + B + G = 198.375
+   - 6.125 * G + 1.75 * G + G = 198.375
+   - (6.125 + 1.75 + 1) * G = 198.375
+   - 8.875 * G = 198.375
+   - G = 198.375 / 8.875 = 22.35 micrometers
+Step 6: Calculate the displacement of the Beta strain (B) using the value of G.
+   - B = 1.75 * G = 1.75 * 22.35 micrometers = 39.1125 micrometers"
+44,857,hardcore,"In a materials engineering project, Team Alpha procured 6.5 kilograms of a specialized steel alloy (Alloy S-1) and 4.2 kilograms of a high-performance ceramic composite (Composite C-2). Team Beta, working on a parallel sub-project, was instructed to procure an amount of Alloy S-1 that was precisely 2/7 of what Team Alpha procured. However, due to an unforeseen design change requiring enhanced thermal resistance, Team Beta needed to acquire 2.25 times the quantity of Composite C-2 that Team Alpha obtained. If Alloy S-1 costs $22.50 per kg and Composite C-2 costs $58.75 per kg, what is the total cost of materials procured by Team Beta, and by what percentage (rounded to two decimal places) does Team Beta's total mass procurement differ from Team Alpha's?","Team Beta's total procurement cost: $597.35. Percentage difference in total mass: 5.67% || Step 1: Calculate Team Alpha's total mass. Team Alpha's total mass = 6.5 kg (Alloy S-1) + 4.2 kg (Composite C-2) = 10.7 kg.
+Step 2: Calculate Team Beta's Alloy S-1 quantity. Team Beta's Alloy S-1 = (2/7) * 6.5 kg = 13/7 kg ≈ 1.85714 kg.
+Step 3: Calculate Team Beta's Composite C-2 quantity. Team Beta's Composite C-2 = 2.25 * 4.2 kg = 9.45 kg.
+Step 4: Calculate Team Beta's total mass. Team Beta's total mass = (13/7 kg) + 9.45 kg ≈ 1.85714 kg + 9.45 kg = 11.30714 kg.
+Step 5: Calculate Team Beta's Alloy S-1 cost. Team Beta's Alloy S-1 cost = (13/7 kg) * $22.50/kg = $292.5/7 ≈ $41.7857.
+Step 6: Calculate Team Beta's Composite C-2 cost. Team Beta's Composite C-2 cost = 9.45 kg * $58.75/kg = $555.5625.
+Step 7: Calculate Team Beta's total procurement cost. Team Beta's total cost = $41.7857 + $555.5625 = $597.3482.
+Step 8: Calculate the percentage difference in total mass. Percentage difference = ((Team Beta's total mass - Team Alpha's total mass) / Team Alpha's total mass) * 100 = ((11.30714 kg - 10.7 kg) / 10.7 kg) * 100 = (0.60714 / 10.7) * 100 ≈ 5.6742%. Rounded to two decimal places, this is 5.67%."
+45,4713,hardcore,"Two competing tech firms, 'Innovate Dynamics' and 'Future Systems', together captured a combined market share of 12.85% in the emerging AI sector. Innovate Dynamics' market share was exactly 3.75 times greater than Future Systems' market share. If the total AI sector generated $7.45 billion in revenue last quarter, and each percentage point of market share for Future Systems translates to a net profit margin of 18.2%, what was Future Systems' total net profit (in millions of dollars, rounded to two decimal places) from this sector last quarter?","$36.68 million || Step 1: Define variables for market share. Let S_FS be Future Systems' market share and S_ID be Innovate Dynamics' market share.
+Step 2: Formulate equations based on the problem. We have S_ID + S_FS = 12.85% (or 0.1285 as a decimal) and S_ID = 3.75 * S_FS.
+Step 3: Substitute the second equation into the first to solve for S_FS. (3.75 * S_FS) + S_FS = 0.1285. This simplifies to 4.75 * S_FS = 0.1285.
+Step 4: Calculate Future Systems' market share. S_FS = 0.1285 / 4.75 ≈ 0.02705263, which is approximately 2.705263%.
+Step 5: Calculate Future Systems' total revenue from its market share. Total AI sector revenue = $7.45 billion. Future Systems' revenue = $7.45 billion * 0.02705263 ≈ $0.2015437 billion.
+Step 6: Convert Future Systems' revenue to millions of dollars. $0.2015437 billion = $201.5437 million.
+Step 7: Calculate Future Systems' total net profit. Profit = Revenue * Profit Margin = $201.5437 million * 0.182 ≈ $36.68095 million. Rounded to two decimal places, this is $36.68 million."
+46,6006,hardcore,"A newly designed energy storage unit for a spacecraft begins its mission with a total capacity of 480.0 kJ of stored energy. During the initial propulsion phase, a malfunction causes 1/3 of this energy to be irrevocably lost due to inefficient conversion. As the spacecraft enters orbital adjustment, 3/8 of the currently remaining energy is consumed by auxiliary systems. Finally, during a critical communication burst, a surge causes half of the still remaining energy to be discharged into space as waste heat. What is the precise amount of energy (in kJ) remaining in the storage unit after these three sequential losses?","100.0 kJ || Step 1: Identify the initial energy. Initial energy = 480.0 kJ.
+Step 2: Calculate the energy lost in the first phase. First loss = (1/3) * 480.0 kJ = 160.0 kJ.
+Step 3: Calculate the energy remaining after the first loss. Energy remaining = 480.0 kJ - 160.0 kJ = 320.0 kJ.
+Step 4: Calculate the energy lost in the second phase (from the currently remaining energy). Second loss = (3/8) * 320.0 kJ = 120.0 kJ.
+Step 5: Calculate the energy remaining after the second loss. Energy remaining = 320.0 kJ - 120.0 kJ = 200.0 kJ.
+Step 6: Calculate the energy lost in the third phase (from the still remaining energy). Third loss = (1/2) * 200.0 kJ = 100.0 kJ.
+Step 7: Calculate the final remaining energy. Final energy remaining = 200.0 kJ - 100.0 kJ = 100.0 kJ."
+47,5115,hardcore,"An engineering consultant, Dr. Aris, charges his primary client $125.75 per hour for standard work, up to 38 hours per week. Any hours worked beyond 38 hours in a week are billed at an overtime rate of 1.75 times his normal hourly rate. In addition to this, 18.5% of his gross weekly income is automatically deducted for taxes and overheads. Dr. Aris is saving up to fund a specialized drone system for his independent research, which has a total estimated cost of $16,875.50 after all discounts. If he consistently works 45.5 hours each week, how many full weeks (rounded up to the nearest whole week) will it take for him to accumulate the necessary funds?","4 weeks || Step 1: Calculate the regular hours pay. Regular hours = 38 hours. Regular pay = 38 hours * $125.75/hour = $4778.50.
+Step 2: Calculate the overtime hours worked. Overtime hours = Total hours - Regular hours = 45.5 hours - 38 hours = 7.5 hours.
+Step 3: Calculate the overtime hourly rate. Overtime rate = 1.75 * $125.75/hour = $220.0625/hour.
+Step 4: Calculate the overtime pay. Overtime pay = 7.5 hours * $220.0625/hour = $1650.46875.
+Step 5: Calculate the gross weekly income. Gross weekly income = Regular pay + Overtime pay = $4778.50 + $1650.46875 = $6428.96875.
+Step 6: Calculate the net weekly income after deductions. Deductions = 18.5%. Net income multiplier = 1 - 0.185 = 0.815. Net weekly income = $6428.96875 * 0.815 = $5236.40939375.
+Step 7: Calculate the number of weeks needed to reach the target amount. Weeks = Total cost / Net weekly income = $16875.50 / $5236.40939375 ≈ 3.2227 weeks. Rounding up to the nearest whole week, it will take 4 weeks."
+48,1187,hardcore,"An electrical engineer, Dr. Anya Sharma, is assembling a complex prototype. She has an initial project budget of $500.00 for components and testing. She has already pre-ordered specialized microcontrollers for $87.50 and spent exactly one-third of that amount on custom connectors. The fabrication lab charges a fixed facility fee of $25.75 per day, and she needs to reserve it for two full days to complete initial setup and diagnostics. Additionally, there's a variable shipping charge for bulk components, which is calculated as 5% of her total remaining budget *before* the bulk component purchase itself. The primary component she needs to acquire is a set of advanced signal filters, sold exclusively in packs of 8. Each pack costs $38.25. What is the maximum number of individual signal filters Dr. Sharma can purchase for her project, after accounting for all expenses, if she must purchase full packs?","64 || Step 1: Calculate the cost of custom connectors. Cost = $87.50 / 3 = $29.1666... (approximately $29.17).
+Step 2: Calculate the total fixed and pre-committed expenses. This includes the microcontrollers, custom connectors, and two days of facility fees. Total fixed expenses = $87.50 + $29.1666... + ($25.75 * 2) = $87.50 + $29.1666... + $51.50 = $168.1666...
+Step 3: Determine the remaining budget after deducting these pre-committed expenses. Remaining budget = $500.00 - $168.1666... = $331.8333...
+Step 4: Calculate the variable shipping cost, which is 5% of the remaining budget from Step 3. Shipping cost = $331.8333... * 0.05 = $16.59166...
+Step 5: Calculate the final budget available specifically for purchasing signal filter packs. Budget for filters = $331.8333... - $16.59166... = $315.24166...
+Step 6: Determine the maximum number of full packs of signal filters Dr. Sharma can buy. Number of packs = $315.24166... / $38.25 per pack = 8.2416... packs. Since she must buy full packs, she can buy 8 packs.
+Step 7: Calculate the total number of individual signal filters. Total filters = 8 packs * 8 filters/pack = 64 filters."
+49,227,hardcore,"A startup founder, Ms. Evelyn Reed, secured an initial seed investment of $125,000.00. She immediately allocated 1/10 of this investment for mandatory legal and administrative fees. From the remaining capital, she disbursed funds to three critical development teams: The UI/UX team received exactly 2/5 of the capital remaining after legal fees. The Backend Infrastructure team was allocated 75% of the amount received by the UI/UX team. Finally, the Data Analytics team received 60% of what the Backend Infrastructure team received. What is the exact amount of capital, in dollars, remaining for Ms. Reed's strategic reserves after all these initial allocations?","13500 || Step 1: Calculate the legal and administrative fees. Legal fees = $125,000.00 * (1/10) = $12,500.00.
+Step 2: Calculate the capital remaining after deducting the legal fees. Remaining capital = $125,000.00 - $12,500.00 = $112,500.00.
+Step 3: Calculate the allocation to the UI/UX team. UI/UX allocation = $112,500.00 * (2/5) = $112,500.00 * 0.40 = $45,000.00.
+Step 4: Calculate the allocation to the Backend Infrastructure team. Backend allocation = $45,000.00 * 0.75 = $33,750.00.
+Step 5: Calculate the allocation to the Data Analytics team. Data Analytics allocation = $33,750.00 * 0.60 = $20,250.00.
+Step 6: Calculate the total capital disbursed to all three development teams. Total disbursed to teams = $45,000.00 + $33,750.00 + $20,250.00 = $99,000.00.
+Step 7: Determine the final remaining capital for strategic reserves. Final reserves = $112,500.00 (capital after legal fees) - $99,000.00 (total disbursed to teams) = $13,500.00."
+50,1510,hardcore,"In a cutting-edge experimental superconducting alloy, a total of 7.5 x 10^17 atoms are present within a specific microscopic crystalline region. Precisely 5/8 of these atoms are Cadmium (Cd), and the remaining atoms are Niobium (Nb). Of the Niobium atoms, 40% exhibit a face-centered cubic (FCC) crystal structure, while the rest are body-centered cubic (BCC). Furthermore, only 3/7 of these FCC Niobium atoms possess a critical quantum spin alignment necessary for high-temperature superconduction. How many Niobium atoms in this region have the critical spin alignment?","4.8214285714e+16 || Step 1: State the total number of atoms in the region. Total atoms = 7.5 × 10^17 atoms.
+Step 2: Calculate the fraction of Niobium (Nb) atoms. Since 5/8 are Cadmium, the remaining fraction for Niobium is 1 - 5/8 = 3/8.
+Step 3: Calculate the total number of Niobium (Nb) atoms. Total Nb atoms = (3/8) * 7.5 × 10^17 = 2.8125 × 10^17 atoms.
+Step 4: Calculate the number of FCC (face-centered cubic) Niobium atoms. FCC Nb atoms = 40% of Total Nb atoms = 0.40 * 2.8125 × 10^17 = 1.125 × 10^17 atoms.
+Step 5: Calculate the number of FCC Niobium atoms that possess the critical spin alignment. Critical spin aligned FCC Nb atoms = (3/7) * 1.125 × 10^17 = (3 * 1.125 / 7) × 10^17 = 0.48214285714... × 10^17 atoms.
+Step 6: Convert the result to standard scientific notation. Critical spin aligned FCC Nb atoms ≈ 4.8214285714 × 10^16 atoms."
+51,5369,hardcore,"A leading bio-engineering firm operates a specialized algal farm for sustainable biofuel production. The farm measures 1.25 kilometers in length and 0.75 kilometers in width. Each square meter of the farm yields an average of 1.8 kilograms of raw algal biomass per harvesting cycle. The raw biomass undergoes a multi-stage refinement process: first, 1/5 of the raw biomass is unfortunately lost during the initial dewatering stage. Subsequently, the remaining dewatered material is processed to yield a purified protein concentrate at a 25% efficiency rate (meaning 25 kg of concentrate is produced from 100 kg of dewatered biomass). This premium protein concentrate is then packaged and sold in bulk at $45.80 per 500-gram container. Assuming the farm completes 3 full harvesting cycles per year, what is the total annual revenue, in USD, generated by this algal farm?","92745000 || Step 1: Calculate the total area of the algal farm in square meters. Length = 1.25 km = 1250 m. Width = 0.75 km = 750 m. Area = 1250 m * 750 m = 937,500 m².
+Step 2: Calculate the total raw algal biomass produced per harvesting cycle in kilograms. Raw biomass per cycle = 937,500 m² * 1.8 kg/m² = 1,687,500 kg.
+Step 3: Calculate the biomass remaining after the 1/5 dewatering loss. Remaining biomass = 1,687,500 kg * (1 - 1/5) = 1,687,500 kg * (4/5) = 1,350,000 kg.
+Step 4: Calculate the mass of purified protein concentrate produced per cycle, given a 25% efficiency rate. Concentrate mass per cycle = 1,350,000 kg * 0.25 = 337,500 kg.
+Step 5: Calculate the number of 500-gram (0.5 kg) containers produced per cycle. Number of containers = 337,500 kg / 0.5 kg/container = 675,000 containers.
+Step 6: Calculate the revenue generated per harvesting cycle. Revenue per cycle = 675,000 containers * $45.80/container = $30,915,000.
+Step 7: Calculate the total annual revenue for 3 harvesting cycles. Total annual revenue = $30,915,000 * 3 = $92,745,000."
+52,3328,hardcore,"In a cutting-edge aerospace engineering facility, three specialized fabrication robots (RoboFab-1, RoboFab-2, and RoboFab-3) are responsible for precision component assembly. Their collective weekly energy consumption averages 22.75 kWh. RoboFab-1, being the oldest model, consumes a consistent 15.2 kWh per week. RoboFab-2, a more powerful unit, consumes precisely 1.65 times the energy of RoboFab-1. The lead engineer needs to determine RoboFab-3's exact weekly energy consumption for an upcoming energy audit, and then calculate what percentage of the total collective consumption RoboFab-3 accounts for.","27.97 kWh (40.98% of total) || Step 1: Calculate the total collective weekly energy consumption. Since the average consumption for 3 robots is 22.75 kWh, the total is 3 * 22.75 kWh = 68.25 kWh.
+Step 2: Identify RoboFab-1's consumption. RoboFab-1 consumes 15.2 kWh.
+Step 3: Calculate RoboFab-2's consumption. RoboFab-2 consumes 1.65 times RoboFab-1's consumption, so 1.65 * 15.2 kWh = 25.08 kWh.
+Step 4: Calculate the combined consumption of RoboFab-1 and RoboFab-2. This is 15.2 kWh + 25.08 kWh = 40.28 kWh.
+Step 5: Determine RoboFab-3's consumption by subtracting the combined consumption of RoboFab-1 and RoboFab-2 from the total collective consumption. So, 68.25 kWh - 40.28 kWh = 27.97 kWh.
+Step 6: Calculate RoboFab-3's consumption as a percentage of the total collective consumption. (27.97 kWh / 68.25 kWh) * 100% = 40.98168498168498%. Rounding to two decimal places, this is 40.98%."
+53,5154,hardcore,"In a complex astrophysical model, a newly discovered protostar, Orionis-A (OA), is currently estimated to be 6.75 million years old. Its companion, Orionis-B (OB), is determined to be 12.5 million years older than OA and 4.25 million years younger than a nearby red giant, Orionis-C (OC). Astronomers are predicting stellar evolution and need to determine the projected age of Orionis-C when Orionis-A eventually reaches an age exactly 2.5 times its current estimated age.","33.625 million years || Step 1: Determine the current age of Orionis-A (OA). OA's current age is 6.75 million years.
+Step 2: Calculate the current age of Orionis-B (OB). OB is 12.5 million years older than OA, so 6.75 + 12.5 = 19.25 million years.
+Step 3: Calculate the current age of Orionis-C (OC). OC is 4.25 million years older than OB (since OB is 4.25 million years younger than OC), so 19.25 + 4.25 = 23.5 million years.
+Step 4: Calculate OA's target future age. OA needs to reach 2.5 times its current age, so 2.5 * 6.75 = 16.875 million years.
+Step 5: Determine the time elapsed for OA to reach its target future age. This is the future age minus the current age: 16.875 - 6.75 = 10.125 million years.
+Step 6: Calculate OC's age at that future point. OC's current age plus the time elapsed is 23.5 + 10.125 = 33.625 million years."
+54,5129,hardcore,"In a biochemistry research lab, a technician starts the week with 160.8 mL of Reagent A. They also have an initial stock of Sample B, which is exactly 3/8 of the volume of Reagent A. Two senior research assistants, Dr. Chen and Dr. Rodriguez, each submit requests for crucial materials. Dr. Chen requests 1/6 of the *initial* Reagent A volume and 1/5 of the *initial* Sample B volume. Dr. Rodriguez makes an identical request for the same proportions of both Reagent A and Sample B. What is the total combined volume of Reagent A and Sample B remaining in the main lab inventory after fulfilling both requests?","143.38 mL || Step 1: Identify the initial volume of Reagent A. Initial Reagent A = 160.8 mL.
+Step 2: Calculate the initial volume of Sample B. Sample B is 3/8 of Reagent A, so (3/8) * 160.8 mL = 60.3 mL.
+Step 3: Calculate the total Reagent A distributed. Each of the two research assistants receives 1/6 of the initial Reagent A, so a total of 2 * (1/6) = 1/3 of the initial Reagent A is distributed. Therefore, (1/3) * 160.8 mL = 53.6 mL of Reagent A is given out.
+Step 4: Calculate the total Sample B distributed. Each of the two research assistants receives 1/5 of the initial Sample B, so a total of 2 * (1/5) = 2/5 of the initial Sample B is distributed. Therefore, (2/5) * 60.3 mL = 24.12 mL of Sample B is given out.
+Step 5: Calculate the remaining volume of Reagent A. Initial Reagent A - Distributed Reagent A = 160.8 mL - 53.6 mL = 107.2 mL.
+Step 6: Calculate the remaining volume of Sample B. Initial Sample B - Distributed Sample B = 60.3 mL - 24.12 mL = 36.18 mL.
+Step 7: Calculate the total combined volume of remaining Reagent A and Sample B. 107.2 mL + 36.18 mL = 143.38 mL."
+55,1934,hardcore,"An engineering firm is managing the budget for a long-term research and development project scheduled for a total duration of 4.75 years. For the initial 2 years and 3 months of the project, the average monthly operational expenditure was precisely $7,200.75. After this initial phase, due to increased personnel and the acquisition of specialized equipment, the monthly expenditure increased by 1/6 of the original monthly cost for the remaining duration of the project. Calculate the total cumulative operational expenditure incurred by the firm for the entire 4.75-year project.","$446,446.50 || Step 1: Calculate the total project duration in months. 4.75 years * 12 months/year = 57 months.
+Step 2: Determine the duration of Phase 1 in months and its total cost. The initial phase is 2 years and 3 months, which is (2 * 12) + 3 = 27 months. The monthly expenditure for Phase 1 is $7,200.75. So, the total cost for Phase 1 is 27 months * $7,200.75/month = $194,420.25.
+Step 3: Calculate the duration of Phase 2 in months. The remaining duration is the total project duration minus Phase 1 duration: 57 months - 27 months = 30 months.
+Step 4: Calculate the new monthly expenditure for Phase 2. The cost increased by 1/6 of the original monthly cost. So, $7,200.75 + (1/6 * $7,200.75) = $7,200.75 + $1,200.125 = $8,400.875 per month.
+Step 5: Calculate the total cost for Phase 2. 30 months * $8,400.875/month = $252,026.25.
+Step 6: Calculate the total cumulative operational expenditure for the entire project by summing the costs from both phases. $194,420.25 (Phase 1) + $252,026.25 (Phase 2) = $446,446.50."
+56,6542,hardcore,"An engineering firm is tasked with applying specialized protective coatings to various sections of an industrial facility. The facility comprises: three main processing chambers, each requiring a unique corrosion-resistant polymer coating. Each chamber has an interior surface area of 185.5 square meters, and the coating application rate is 0.15 gallons per square meter. The polymer coating is supplied in 0.75-gallon specialized containers. Five auxiliary equipment rooms, each needing a standard moisture-resistant sealant. Each room has a surface area of 110.25 square meters, and the sealant application rate is 0.08 gallons per square meter. This sealant is packaged in 2.5-gallon drums. One large central control room requiring a high-temperature reflective coating. This room has a surface area of 250.75 square meters, with a coating rate of 0.22 gallons per square meter. This reflective coating comes in 1.2-gallon canisters. Due to potential spillage and re-application needs, a 12.5% overage is mandatory for each coating type. Calculate the total number of complete containers of all types the firm must procure.","198 containers || Step 1: Calculate the total initial polymer coating volume needed for the processing chambers. Each of 3 chambers has 185.5 m² surface area, and requires 0.15 gal/m². Total polymer needed = 3 * 185.5 m² * 0.15 gal/m² = 83.475 gallons.
+Step 2: Calculate the total initial sealant volume needed for the auxiliary rooms. Each of 5 rooms has 110.25 m² surface area, and requires 0.08 gal/m². Total sealant needed = 5 * 110.25 m² * 0.08 gal/m² = 44.1 gallons.
+Step 3: Calculate the total initial reflective coating volume needed for the central control room. The room has 250.75 m² surface area, and requires 0.22 gal/m². Total reflective coating needed = 250.75 m² * 0.22 gal/m² = 55.165 gallons.
+Step 4: Apply the 12.5% overage to each coating type's required volume. 
+- Polymer (with overage): 83.475 gallons * 1.125 = 93.911875 gallons.
+- Sealant (with overage): 44.1 gallons * 1.125 = 49.6125 gallons.
+- Reflective (with overage): 55.165 gallons * 1.125 = 62.060625 gallons.
+Step 5: Calculate the number of containers for each coating type, rounding up to the nearest whole container.
+- Polymer containers: 93.911875 gallons / 0.75 gal/container = 125.2158... -> 126 containers.
+- Sealant containers: 49.6125 gallons / 2.5 gal/container = 19.845 -> 20 containers.
+- Reflective containers: 62.060625 gallons / 1.2 gal/canister = 51.7171... -> 52 containers.
+Step 6: Sum the total number of containers across all types. Total containers = 126 + 20 + 52 = 198 containers."
+57,3513,hardcore,"A logistics company, ""Global Haulers,"" initially paid $750.00 to fully fuel one of its long-haul cargo jets for a standard transatlantic route. Due to an expansion, they upgraded the jet with an auxiliary fuel bladder, increasing its total fuel capacity by 37.5%. Simultaneously, geopolitical tensions caused crude oil prices to surge, leading to a 15% increase in fuel costs per gallon. However, Global Haulers negotiated a bulk discount with their primary fuel supplier, reducing the new, inflated price by 7.5%. On top of this, a new carbon tax of $0.035 per gallon was implemented. If the original full tank held 12,500 gallons, calculate the new total cost for Global Haulers to fully fuel this upgraded jet, including all price adjustments and taxes.","$1698.54 || Step 1: Calculate the new total fuel capacity of the jet. Original capacity = 12,500 gallons. Increase = 37.5%. New capacity = 12,500 * (1 + 0.375) = 12,500 * 1.375 = 17,187.5 gallons.
+Step 2: Calculate the original price per gallon. Original cost = $750.00. Original capacity = 12,500 gallons. Original price/gallon = $750.00 / 12,500 gallons = $0.06 per gallon.
+Step 3: Calculate the fuel price per gallon after the 15% surge. Surged price/gallon = $0.06 * (1 + 0.15) = $0.06 * 1.15 = $0.069 per gallon.
+Step 4: Apply the 7.5% bulk discount to the surged price per gallon. Discounted price/gallon = $0.069 * (1 - 0.075) = $0.069 * 0.925 = $0.063825 per gallon.
+Step 5: Add the new carbon tax per gallon to find the final price per gallon. Final price/gallon = $0.063825 + $0.035 = $0.098825 per gallon.
+Step 6: Calculate the total cost for the new capacity using the final price per gallon. Total cost = 17,187.5 gallons * $0.098825/gallon = $1698.543125. Rounding to two decimal places for currency."
+58,4965,hardcore,"A manufacturing company produces two specialized electronic components, Component A and Component B. The direct material cost for Component A is 3/5 of the direct material cost for Component B. Component B also incurs a fixed overhead of $12.75 per unit. The total manufacturing cost for Component A is determined by its direct material cost plus 45% of its direct material cost for labor, plus an additional $8.20 for variable overhead. If Component A's total manufacturing cost is $38.90, and Component B's total manufacturing cost is its direct material cost, its fixed overhead, and 62.5% of Component A's defined variable overhead portion (the additional $8.20) for its own variable overhead, calculate the total combined manufacturing cost for producing one unit of Component A and one unit of Component B.","$92.06 || Step 1: Determine the Direct Material Cost for Component A (DM_A). The total manufacturing cost for Component A (TC_A) is DM_A + (0.45 * DM_A) + Variable Overhead (A). Given TC_A = $38.90 and Variable Overhead (A) = $8.20. So, $38.90 = DM_A + 0.45 * DM_A + $8.20 => $38.90 = 1.45 * DM_A + $8.20 => $30.70 = 1.45 * DM_A => DM_A = $30.70 / 1.45 = $21.17241379.
+Step 2: Calculate the Direct Material Cost for Component B (DM_B). DM_A is 3/5 of DM_B, so DM_B = (5/3) * DM_A. DM_B = (5/3) * $21.17241379 = $35.28735632.
+Step 3: Determine the Variable Overhead for Component B (VO_B). VO_B is 62.5% of Component A's variable overhead ($8.20). VO_B = 0.625 * $8.20 = $5.125.
+Step 4: Calculate the Total Manufacturing Cost for Component B (TC_B). TC_B = DM_B + Fixed Overhead (B) + VO_B. Given Fixed Overhead (B) = $12.75. TC_B = $35.28735632 + $12.75 + $5.125 = $53.16235632.
+Step 5: Calculate the Total Combined Manufacturing Cost for one unit of A and one unit of B. Total Combined Cost = TC_A + TC_B = $38.90 + $53.16235632 = $92.06235632. Rounding to two decimal places."
+59,7020,hardcore,"A deep-space probe, ""Voyager-X,"" is on an extended mission. Its primary propulsion system operates at a steady speed of 48,500 kilometers per hour. During a 90-day period, the probe experienced several operational phases: for the first 2/3 of the *operational* period, the primary system was fully active. Then, for 15% of the *remaining operational* time, it switched to a slower ion thruster, maintaining 3/8 of its primary system's speed. For 5.5 days within this 90-day period, the probe was completely inactive due to maintenance, and this downtime is independent of the above phases. Calculate the total distance (in millions of kilometers) covered by the Voyager-X probe during this entire 90-day mission period, accounting for all operational changes and downtime. Round your final answer to two decimal places.","95.29 million km || Step 1: Calculate the total actual operational hours for the probe. Total days in period = 90 days. Downtime = 5.5 days. Actual operational days = 90 - 5.5 = 84.5 days. Actual operational hours = 84.5 days * 24 hours/day = 2028 hours.
+Step 2: Calculate the duration and distance covered during the Primary System Active Phase 1. Duration = (2/3) * 2028 hours = 1352 hours. Speed = 48,500 km/h. Distance 1 = 1352 hours * 48,500 km/h = 65,572,000 km.
+Step 3: Calculate the remaining operational hours after Phase 1. Remaining hours = 2028 hours - 1352 hours = 676 hours.
+Step 4: Calculate the duration and distance covered during the Ion Thruster Phase. Duration = 15% of remaining operational hours = 0.15 * 676 hours = 101.4 hours. Ion thruster speed = (3/8) * 48,500 km/h = 18,187.5 km/h. Distance 2 = 101.4 hours * 18,187.5 km/h = 1,844,118.75 km.
+Step 5: Calculate the duration and distance covered during the remaining active time, which defaults to the Primary System (Phase 2). Duration = 676 hours (remaining) - 101.4 hours (ion thruster) = 574.6 hours. Speed = 48,500 km/h. Distance 3 = 574.6 hours * 48,500 km/h = 27,878,100 km.
+Step 6: Sum the total distance covered in all active phases. Total Distance = Distance 1 + Distance 2 + Distance 3 = 65,572,000 km + 1,844,118.75 km + 27,878,100 km = 95,294,218.75 km.
+Step 7: Convert the total distance to millions of kilometers and round to two decimal places. Total Distance in millions of km = 95,294,218.75 km / 1,000,000 = 95.29421875 million km. Rounded: 95.29 million km."
