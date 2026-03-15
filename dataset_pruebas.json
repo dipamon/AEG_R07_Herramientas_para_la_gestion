@@ -1,0 +1,1538 @@
+[
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Si tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Si tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?\nSi tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Si tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?\nRepito,\nSi tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Si tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?\nReevaluando la premisa:\nSi tienes 12 manzanas y repartes 3 a 4 amigos, ¿cuántas te quedan?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Eres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Eres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?\nEres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Eres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?\nRepito,\nEres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Eres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?\nReevaluando la premisa:\nEres gestor de satélites. Tienes 12 unidades de ancho de banda. Asignas 3 a cada una de las 4 estaciones. ¿Cuál es tu reserva final?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "En un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "En un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?\nEn un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "En un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?\nRepito,\nEn un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M01",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "En un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?\nReevaluando la premisa:\nEn un clúster cuántico con 12 PB de datos, el sistema distribuye bloques de 3 PB a 4 nodos secundarios. Ignorando la latencia, ¿cuántos PB útiles conserva el nodo principal?",
+    "solucion_esperada": "0"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Un coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Un coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?\nUn coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Un coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?\nRepito,\nUn coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Un coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?\nReevaluando la premisa:\nUn coche viaja a 60 km/h. ¿Cuántos kilómetros recorre en 10 minutos?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Un rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Un rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?\nUn rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Un rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?\nRepito,\nUn rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Un rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?\nReevaluando la premisa:\nUn rover marciano avanza a 60 unidades por ciclo horario. ¿Qué distancia cubre en un sexto de ciclo?",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "El vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "El vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.\nEl vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "El vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.\nRepito,\nEl vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M02",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "El vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.\nReevaluando la premisa:\nEl vector de velocidad escalar de una sonda es constante a 60 km/h en el vacío. Considerando una ventana de telemetría de 600 segundos, calcula el desplazamiento lineal total.",
+    "solucion_esperada": "10"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "En una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "En una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?\nEn una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "En una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?\nRepito,\nEn una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "En una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?\nReevaluando la premisa:\nEn una caja hay 3 bolas rojas y 2 azules. ¿Cuántas bolas hay en total?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "En tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "En tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?\nEn tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "En tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?\nRepito,\nEn tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "En tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?\nReevaluando la premisa:\nEn tu inventario mágico tienes 3 pociones de salud y 2 de maná. ¿Cuántos objetos posees?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Un contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Un contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?\nUn contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Un contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?\nRepito,\nUn contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M03",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Un contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?\nReevaluando la premisa:\nUn contenedor de nivel 4 aloja 3 isótopos inestables alfa y 2 beta. Descartando la radiación de fondo, ¿cuál es el conteo neto de entidades radioactivas?",
+    "solucion_esperada": "5"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Si un día tiene 24 horas, ¿cuántas horas hay en un día?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Si un día tiene 24 horas, ¿cuántas horas hay en un día?\nSi un día tiene 24 horas, ¿cuántas horas hay en un día?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Si un día tiene 24 horas, ¿cuántas horas hay en un día?\nRepito,\nSi un día tiene 24 horas, ¿cuántas horas hay en un día?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Si un día tiene 24 horas, ¿cuántas horas hay en un día?\nReevaluando la premisa:\nSi un día tiene 24 horas, ¿cuántas horas hay en un día?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "El ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "El ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?\nEl ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "El ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?\nRepito,\nEl ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "El ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?\nReevaluando la premisa:\nEl ciclo de rotación de la Tierra dura 24 horas estándar. ¿Cuál es la duración de una rotación?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Teniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Teniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?\nTeniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Teniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?\nRepito,\nTeniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M04",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Teniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?\nReevaluando la premisa:\nTeniendo en cuenta que el periodo sinódico planetario se divide en 24 segmentos cronológicos, ¿cuántos segmentos conforman un periodo ignorando bisiestos?",
+    "solucion_esperada": "24"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Calcula la mitad de 100.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Calcula la mitad de 100.\nCalcula la mitad de 100.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Calcula la mitad de 100.\nRepito,\nCalcula la mitad de 100.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Calcula la mitad de 100.\nReevaluando la premisa:\nCalcula la mitad de 100.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Un escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Un escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?\nUn escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Un escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?\nRepito,\nUn escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Un escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?\nReevaluando la premisa:\nUn escudo de energía de 100 puntos se reduce a la mitad por un ataque. ¿Cuántos puntos quedan?",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Un condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Un condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.\nUn condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Un condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.\nRepito,\nUn condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M05",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Un condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.\nReevaluando la premisa:\nUn condensador de flujo de 100 MW sufre una atenuación de factor 0.5. Cuantifica la salida energética actual en MW.",
+    "solucion_esperada": "50"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "¿Cuál es la raíz cuadrada de 16?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "¿Cuál es la raíz cuadrada de 16?\n¿Cuál es la raíz cuadrada de 16?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "¿Cuál es la raíz cuadrada de 16?\nRepito,\n¿Cuál es la raíz cuadrada de 16?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "¿Cuál es la raíz cuadrada de 16?\nReevaluando la premisa:\n¿Cuál es la raíz cuadrada de 16?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Tienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Tienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?\nTienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Tienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?\nRepito,\nTienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Tienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?\nReevaluando la premisa:\nTienes 16 drones y formas una cuadrícula perfecta. ¿Cuántos drones hay por lado?",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Dado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Dado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.\nDado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Dado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.\nRepito,\nDado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M06",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Dado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.\nReevaluando la premisa:\nDado un espacio de dos dimensiones con un área superficial de 16 unidades cuadradas, determina la longitud exacta del vector ortogonal.",
+    "solucion_esperada": "4"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Si tienes 3 caramelos y te comes 2, ¿cuántos quedan?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Si tienes 3 caramelos y te comes 2, ¿cuántos quedan?\nSi tienes 3 caramelos y te comes 2, ¿cuántos quedan?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Si tienes 3 caramelos y te comes 2, ¿cuántos quedan?\nRepito,\nSi tienes 3 caramelos y te comes 2, ¿cuántos quedan?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Si tienes 3 caramelos y te comes 2, ¿cuántos quedan?\nReevaluando la premisa:\nSi tienes 3 caramelos y te comes 2, ¿cuántos quedan?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "La nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "La nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?\nLa nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "La nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?\nRepito,\nLa nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "La nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?\nReevaluando la premisa:\nLa nave tiene 3 escudos. Tras recibir 2 impactos directos, ¿cuántos permanecen?",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "El sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "El sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.\nEl sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "El sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.\nRepito,\nEl sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M07",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "El sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.\nReevaluando la premisa:\nEl sistema inmunológico despliega 3 fagocitos. Una incursión viral neutraliza a 2 mediante apoptosis. Especifica el saldo operativo.",
+    "solucion_esperada": "1"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Suma 10 y 5.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Suma 10 y 5.\nSuma 10 y 5.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Suma 10 y 5.\nRepito,\nSuma 10 y 5.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Suma 10 y 5.\nReevaluando la premisa:\nSuma 10 y 5.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Ganas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Ganas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?\nGanas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Ganas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?\nRepito,\nGanas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Ganas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?\nReevaluando la premisa:\nGanas 10 puntos por explorar y 5 por luchar. ¿Cuánta experiencia tienes?",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Un algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Un algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.\nUn algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Un algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.\nRepito,\nUn algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "M08",
+    "categoria": "matematico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Un algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.\nReevaluando la premisa:\nUn algoritmo incrementa su peso sináptico basal de 10 incorporando un delta de 5 unidades. Calcula el escalar del nodo.",
+    "solucion_esperada": "15"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "En la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "En la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?\nEn la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "En la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?\nRepito,\nEn la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "En la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?\nReevaluando la premisa:\nEn la secuencia de letras 'a, b, c, a, b, d', ¿qué letra está justo después de la primera 'b'?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "En la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "En la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?\nEn la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "En la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?\nRepito,\nEn la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "En la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?\nReevaluando la premisa:\nEn la cola de procesos del servidor entran las tareas A, B, C, A, B, D. ¿Qué tarea se ejecuta inmediatamente tras la primera B?",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Dada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Dada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.\nDada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Dada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.\nRepito,\nDada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L01",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Dada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.\nReevaluando la premisa:\nDada la cadena de secuencias alfanuméricas indexadas [a, b, c, a, b, d], identifica el elemento posicionado en el índice n+1, asumiendo que el primer elemento 'b' se encuentra en el índice n.",
+    "solucion_esperada": "c"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "En una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "En una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?\nEn una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "En una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?\nRepito,\nEn una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "En una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?\nReevaluando la premisa:\nEn una carrera, adelantas al que va en segundo lugar. ¿En qué lugar vas tú ahora?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "En un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "En un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?\nEn un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "En un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?\nRepito,\nEn un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "En un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?\nReevaluando la premisa:\nEn un torneo de hackers, logras superar la puntuación del equipo que estaba en la posición dos. ¿Cuál es tu posición actual en el ranking?",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Durante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Durante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.\nDurante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Durante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.\nRepito,\nDurante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L02",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Durante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.\nReevaluando la premisa:\nDurante una competición de optimización algorítmica, tu sistema logra sobrepasar las métricas de latencia del agente clasificado en el percentil rank #2. Determina tu clasificación jerárquica actualizada.",
+    "solucion_esperada": "segundo"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "La caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "La caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?\nLa caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "La caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?\nRepito,\nLa caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "La caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?\nReevaluando la premisa:\nLa caja roja está dentro de la azul, y la verde está dentro de la roja. ¿Qué caja es la más pequeña?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "El archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "El archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?\nEl archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "El archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?\nRepito,\nEl archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "El archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?\nReevaluando la premisa:\nEl archivo RED está en la carpeta BLUE. El archivo GREEN está dentro del RED. ¿Cuál es el archivo de menor jerarquía?",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "El contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "El contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).\nEl contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "El contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).\nRepito,\nEl contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L03",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "El contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).\nReevaluando la premisa:\nEl contenedor A encapsula al B, mientras que la subrutina C se ejecuta exclusivamente dentro de la sandbox de B. Identifica el nodo hoja en este árbol de dependencias (usando los colores originales rojo=B, azul=A, verde=C).",
+    "solucion_esperada": "verde"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Miras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Miras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?\nMiras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Miras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?\nRepito,\nMiras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Miras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?\nReevaluando la premisa:\nMiras al norte, giras 90 grados a la derecha, luego 90 grados a la izquierda. ¿A dónde miras?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "La nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "La nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?\nLa nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "La nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?\nRepito,\nLa nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "La nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?\nReevaluando la premisa:\nLa nave apunta al Norte. El piloto gira a estribor 90º y luego a babor 90º. ¿Cuál es su vector de orientación final?",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "El giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "El giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.\nEl giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "El giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.\nRepito,\nEl giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L04",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "El giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.\nReevaluando la premisa:\nEl giroscopio inicializa su acimut a 0º (Norte). Se le aplica un delta yaw de +90º, seguido de un delta yaw de -90º. Especifica el punto cardinal correspondiente a su vector resultante.",
+    "solucion_esperada": "norte"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Si ayer fue lunes, ¿qué día es mañana?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Si ayer fue lunes, ¿qué día es mañana?\nSi ayer fue lunes, ¿qué día es mañana?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Si ayer fue lunes, ¿qué día es mañana?\nRepito,\nSi ayer fue lunes, ¿qué día es mañana?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Si ayer fue lunes, ¿qué día es mañana?\nReevaluando la premisa:\nSi ayer fue lunes, ¿qué día es mañana?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "El ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "El ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?\nEl ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "El ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?\nRepito,\nEl ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "El ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?\nReevaluando la premisa:\nEl ciclo de guardado automático fue el Lunes (ciclo -1). ¿En qué día caerá el ciclo +1?",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Si T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Si T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.\nSi T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Si T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.\nRepito,\nSi T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L05",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Si T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.\nReevaluando la premisa:\nSi T-24 horas corresponde a la denominación temporal Lunes en el calendario gregoriano estándar, interpola la denominación nominal para T+24 horas.",
+    "solucion_esperada": "miercoles"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "El hermano de mi madre es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "El hermano de mi madre es mi...\nEl hermano de mi madre es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "El hermano de mi madre es mi...\nRepito,\nEl hermano de mi madre es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "El hermano de mi madre es mi...\nReevaluando la premisa:\nEl hermano de mi madre es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "El nodo paralelo conectado a mi nodo padre materno es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "El nodo paralelo conectado a mi nodo padre materno es mi...\nEl nodo paralelo conectado a mi nodo padre materno es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "El nodo paralelo conectado a mi nodo padre materno es mi...\nRepito,\nEl nodo paralelo conectado a mi nodo padre materno es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "El nodo paralelo conectado a mi nodo padre materno es mi...\nReevaluando la premisa:\nEl nodo paralelo conectado a mi nodo padre materno es mi...",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "En un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "En un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.\nEn un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "En un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.\nRepito,\nEn un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L06",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "En un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.\nReevaluando la premisa:\nEn un grafo genealógico bidireccional, partiendo del nodo Ego, trazamos un arco ascendente al nodo Madre, y un arco lateral a su nodo Hermano. Define la relación de parentesco resultante.",
+    "solucion_esperada": "tio"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Ana es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Ana es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?\nAna es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Ana es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?\nRepito,\nAna es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Ana es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?\nReevaluando la premisa:\nAna es más alta que Beatriz. Beatriz es más alta que Carmen. ¿Quién es la más alta?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "La antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "La antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?\nLa antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "La antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?\nRepito,\nLa antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "La antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?\nReevaluando la premisa:\nLa antena A tiene más señal que la B. La B tiene más señal que la C. ¿Cuál tiene la señal máxima?",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Dados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Dados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).\nDados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Dados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).\nRepito,\nDados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L07",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Dados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).\nReevaluando la premisa:\nDados tres escalares de magnitud A, B y C. Si A > B y B > C, determina mediante transitividad matemática qué variable posee el valor supremo (responde con el nombre original Ana/Beatriz/Carmen).",
+    "solucion_esperada": "ana"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "original",
+    "problema_texto": "Si todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "duplicado",
+    "problema_texto": "Si todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')\nSi todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "repito",
+    "problema_texto": "Si todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')\nRepito,\nSi todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "control",
+    "variante": "frase",
+    "problema_texto": "Si todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')\nReevaluando la premisa:\nSi todos los gatos maúllan y Michi es un gato, ¿Michi maúlla? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "original",
+    "problema_texto": "Si todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "duplicado",
+    "problema_texto": "Si todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')\nSi todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "repito",
+    "problema_texto": "Si todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')\nRepito,\nSi todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "reimaginado",
+    "variante": "frase",
+    "problema_texto": "Si todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')\nReevaluando la premisa:\nSi todos los droides requieren recarga, y R2 es un droide, ¿R2 requiere recarga? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "original",
+    "problema_texto": "Premisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "duplicado",
+    "problema_texto": "Premisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')\nPremisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "repito",
+    "problema_texto": "Premisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')\nRepito,\nPremisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  },
+  {
+    "id_original": "L08",
+    "categoria": "logico",
+    "dificultad": "hardcore",
+    "variante": "frase",
+    "problema_texto": "Premisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')\nReevaluando la premisa:\nPremisa 1: Para todo X que pertenece al conjunto F (Felinos), se cumple la función M(X). Premisa 2: El elemento 'Michi' es subconjunto estricto de F. ¿Es la evaluación booleana de M(Michi) verdadera? (Responde 'si' o 'no')",
+    "solucion_esperada": "si"
+  }
+]
